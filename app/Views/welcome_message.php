@@ -7,8 +7,8 @@
     <link rel="stylesheet"
           id="theme_link"
           href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.3.1/materia/bootstrap.min.css"/>
-    <link rel="stylesheet" href="navbar-fixed-right.min.css">
-    <link rel="stylesheet" href="navbar-fixed-left.min.css">
+    <!-- <link rel="stylesheet" href="navbar-fixed-right.min.css">
+    <link rel="stylesheet" href="navbar-fixed-left.min.css"> -->
     <link rel="stylesheet" href="docs.css">
     <script
             src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -22,6 +22,7 @@
 </head>
 
 <body>
+
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
     <a class="navbar-brand text-primary" href>Menu</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
@@ -32,11 +33,9 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a href="<?php echo base_url('pelayanan'); ?>" class="nav-link text-second">Pelayananan</a>
+            <a href="<?php echo base_url('pelayanan'); ?>" class="nav-link text-second">Pelayananan</a>
             </li>
-            <!-- <li class="nav-item">
-                <a href="<?php echo base_url('pelayanan'); ?>" class="nav-link">Loket</a>
-            </li> -->
+
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Antrian</a>
                 <div class="dropdown-menu">
@@ -49,6 +48,7 @@
         
     </div>
 </nav>
+<br>
 
 <div class="container">
     <div class="jumbotron bg-dark">

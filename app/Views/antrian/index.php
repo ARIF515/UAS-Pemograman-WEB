@@ -45,12 +45,12 @@
 
         <main>
             <section class="hero">
-                <div class="container">
+                <div class="container bg-dark">
                     <div class="hero-inner">
                         <div class="hero-copy">
                             <a href="<?php echo base_url(''); ?>" class="btn btn-primary float-left mb-3 center">Home</a>  
-                            <h1 class="hero-title h2-mobile mt-0 is-revealing">Antrian</h1>
-                            <p class="hero-paragraph is-revealing">Untuk mengambil antrian silakan tekan gambar di bawah sesuai dengan kebutuhan anda</p>
+                            <h1 class="hero-title h2-mobile mt-0 is-revealing text-light">Antrian</h1>
+                            <p class="hero-paragraph is-revealing text-light">Untuk mengambil antrian silakan tekan gambar di bawah sesuai dengan kebutuhan anda</p>
                             <p class="hero-cta is-revealing"><a class="button button-primary button-shadow" href="#"></a></p>
                         </div>
                         <div class="container mt-5 mb-5 text-center">
@@ -128,8 +128,8 @@
                                         </g>
                                     </g>
                                     <path d="M0 0h528v414H0z"/>
-                                    <path fill="#FFF" d="M0 63h528v297H0z" style="mix-blend-mode:multiply;filter:url(#dropshadow-1)"/>
-                                    <path fill="#FFF" d="M0 63h528v297H0z"/>
+                                    <path fill="#000000" d="M0 63h528v297H0z" style="mix-blend-mode:multiply;filter:url(#dropshadow-1)"/>
+                                    <path fill="#000000" d="M0 63h528v297H0z"/>
                                     <path fill="url(#hero-illustration-b)" d="M408 230h80v48h-80z"/>
                                     <path d="M0 0h4v4H0V0zm0 12h4v4H0v-4zm0 12h4v4H0v-4zm0 12h4v4H0v-4zm0 12h4v4H0v-4zm0 12h4v4H0v-4zM12 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM24 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM36 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM48 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM60 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4z" transform="rotate(45 -118.861 431.981)" fill="url(#hero-illustration-c)"/>
                                     <path fill="#FFF" d="M288 254h160v160H288z" style="mix-blend-mode:multiply;filter:url(#dropshadow-1)"/>
@@ -155,7 +155,7 @@
 
                             <div class="feature is-revealing">
                                 <a href="<?php echo base_url('antrian/cs/4'); ?>">
-                                <div class="feature-inner">
+                                <div class="feature-inner bg-dark">
                                     <div class="feature-icon">
                                         <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
                                             <defs>
@@ -208,7 +208,7 @@
                             </div>
                             <div class="feature is-revealing">
                                 <a href="<?php echo base_url('antrian/pb/6'); ?>">
-                                <div class="feature-inner">
+                                <div class="feature-inner bg-dark">
                                     <div class="feature-icon">
                                         <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
                                             <defs>
