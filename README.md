@@ -1,21 +1,18 @@
-## DEMO
-
-http://54.254.248.107/zihan/public/
-
-##
-Nama : Zihan Zaenal Abidin
-NIM : 311910408
+Nama : Arif Sugiyanto
+NIM : 311910552
 Kelas : TI.19.B2
 
 
 1.Tampilan Home
-![Screenshot (11)](https://user-images.githubusercontent.com/81241228/126332784-4031cfa3-d1da-423d-b5de-6d89f4d8aea8.png)
+![image](https://user-images.githubusercontent.com/81582653/127521437-d1b614fd-fc5d-4326-8c44-9bd0122427c7.png)
 
 2.Tampilan Pelayanan
-![Screenshot (12)](https://user-images.githubusercontent.com/81241228/126332933-64c673e3-e8ba-494e-98b4-29432f7c6530.png)
+![image](https://user-images.githubusercontent.com/81582653/127521464-7bc72955-4967-4ea6-bd6f-2508c8abc92d.png)
 
 3. Tampilan Antrian
-![Screenshot (13)](https://user-images.githubusercontent.com/81241228/126333030-d85e845c-ef5c-4d8b-9b61-cbeaade28d44.png)
+![image](https://user-images.githubusercontent.com/81582653/127521508-e46d25d2-f591-4f5b-a0d1-4800cc13d6c8.png)
 
 4.Tampilan Loket 
-![Screenshot (14)](https://user-images.githubusercontent.com/81241228/126333294-c77a54bb-4bea-45fa-ab34-493a51f58876.png)
+![image](https://user-images.githubusercontent.com/81582653/127521806-dc1813d4-2a2e-49c5-ad02-20dc69f38e69.png)
+
+
